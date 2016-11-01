@@ -1,10 +1,10 @@
 #!/bin/bash
 #program:
-#       input: .c,.cpp,.h 
-# 			output: line count, code line count, commnet count, empty line count, comment rat
-#       accepted comment types：
-#       * "//"
-#       * /**/
+#	input: .c,.cpp,.h 
+#	output: line count, code line count, commnet count, empty line count, comment rat
+#	accepted comment types：
+#	* "//"
+#	* /**/
 #History:
 #2016/11/01 First release
 echo "-----------------------"> result.txt
